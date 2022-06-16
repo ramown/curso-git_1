@@ -1,0 +1,3 @@
+git clone `repositorio` .
+
+"." no diretório atual
