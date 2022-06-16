@@ -1,0 +1,6 @@
+# criando
+git branch <nome>
+
+# removendo
+git branch -d <nome>
+ * geralmente se usa quando foi criado errado
